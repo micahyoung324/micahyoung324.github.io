@@ -1,4 +1,19 @@
+body {
+    background-color: slategray;
+    color: aliceblue;
+    font-family: sans-serif;
+}
+
 #title {
     text-align: center;
-    font-size: xx-large;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 4em;
+    margin-bottom: 0.7em;
+}
+
+div {
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 2em;
 }
